@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Mohammad Mawassi. I am Lebanese, born in July 9, 1997. I graduated Lebanese International University (LIU) in February 2021 with a computer science degree.
-- 🌱 I’m currently building Web Development projects, solving JavaScript Challenges at codewars.com and applying to remote jobs.
-- Skills: Javascript, React, CSS, Nodejs, Expressjs, MongoDB and Mongoose.
 - 📫 How to reach me : E-mail : mawassi999@gmail.com
